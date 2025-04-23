@@ -20,3 +20,7 @@ This is my first study project using JavaScript. It's a simple game where the us
 ## Purpose
 
 To practice programming logic and DOM manipulation using JavaScript.
+
+## Disclaimer
+
+The variables, functions, and objects in this project are named in Portuguese, as it is my native language. Although I am fluent in English and learning programming primarily in English, I chose to write the code in Portuguese to support my learning process. Additionally, the courses I am currently taking are taught in Portuguese.
